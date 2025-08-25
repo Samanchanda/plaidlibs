@@ -20,7 +20,7 @@ from huggingface_hub import InferenceClient
 # ------------------------------
 st.set_page_config(page_title="🎭 PlaidLibs™", layout="centered")
 
-HF_TOKEN = os.getenv("HUGGINGFACEHUB_API_TOKEN", "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")  # apna HF token daalna
+HF_TOKEN = os.getenv("HUGGINGFACEHUB_API_TOKEN", "hf_.......")  # apna HF token daalna
 
 # ------------------------------
 # Models (cached)
@@ -311,4 +311,5 @@ if user_msg:
                 say("assistant", f"**📖 Your Story**\n\n{story}\n\nType **image** to create art 🎨")
             except Exception as e:
                 say("assistant", f"Story failed: `{e}`")
+
 
