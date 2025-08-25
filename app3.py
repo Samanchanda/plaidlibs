@@ -311,3 +311,4 @@ if user_msg:
                 say("assistant", f"**📖 Your Story**\n\n{story}\n\nType **image** to create art 🎨")
             except Exception as e:
                 say("assistant", f"Story failed: `{e}`")
+
