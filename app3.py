@@ -20,7 +20,7 @@ from huggingface_hub import InferenceClient
 # ------------------------------
 st.set_page_config(page_title="🎭 PlaidLibs™", layout="centered")
 
-HF_TOKEN = os.getenv("HUGGINGFACEHUB_API_TOKEN", "hf_xxx")  # apna HF token daalna
+HF_TOKEN = os.getenv("HUGGINGFACEHUB_API_TOKEN", "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")  # apna HF token daalna
 
 # ------------------------------
 # Models (cached)
