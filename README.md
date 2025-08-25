@@ -70,15 +70,11 @@ plaidlibs/
 > only to be interrupted by a **mysterious** bagpipe-playing wizard."
 
 
-
-
-
 ## 🧶 Credits
 
 * Streamlit for the UI
 * Zephyr-7B + FLUX for the story generation magic
 * Inspired by the classic **Mad Libs®** word game
-
 
 
 Kya tum chahogi main **requirements.txt** bhi bana dun (Streamlit + HuggingFace + dependencies ke sath), taake upload karte hi log run kar saken?
