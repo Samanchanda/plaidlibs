@@ -77,5 +77,4 @@ plaidlibs/
 * Inspired by the classic **Mad Libs®** word game
 
 
-Kya tum chahogi main **requirements.txt** bhi bana dun (Streamlit + HuggingFace + dependencies ke sath), taake upload karte hi log run kar saken?
-```
+
