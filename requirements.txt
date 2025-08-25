@@ -1,4 +1,12 @@
 streamlit
 requests
 python-dotenv
+langchain
+langchain-huggingface
+openai
+pandas
+numpy
+scikit-learn
+opencv-python
+
 
